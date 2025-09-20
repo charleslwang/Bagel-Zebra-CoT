@@ -1,7 +1,15 @@
+
 # Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning
 
 ![Image](assets/zebra_cot_datacard.png)
 ### BAGEL Training Zebra-CoT
+
+[![arXiv](https://img.shields.io/badge/arXiv-2507.16746-b31b1b.svg)](https://arxiv.org/abs/2507.16746)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/multimodal-reasoning-lab/Bagel-Zebra-CoT)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/multimodal-reasoning-lab/Bagel-Zebra-CoT)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/multimodal-reasoning-lab/Bagel-Zebra-CoT?style=social)](https://github.com/multimodal-reasoning-lab/Bagel-Zebra-CoT/stargazers)
 
 This repository is adapted from the [Bagel](https://github.com/ByteDance-Seed/Bagel) repository.
 ### Setup
